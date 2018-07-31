@@ -45,14 +45,7 @@ public class Ex8 {
 		sumMatrix(arX, arY, dimM, dimN);
 		printMatrix(arX, dimM, dimN);
 			
-			
-			
-
-
-
-		
-
-	}
+		}
 	
     static void AddToMatrix(int[][] arr, int dimM, int dimN) {
            for (int i = 0; i < dimM; i++) {
